@@ -1,4 +1,4 @@
-# Nexus-Project-2-QnA-Chatbot
+# Nexus-Project-2-QnA-Chatbot (Feb 2024)
 This is my second GitHub repository.
 ------------------------------------
 
